@@ -23,10 +23,14 @@
         Scikit-Learn for machine learning models
 
  **📂 Project Structure**
-           📁 Notebook
-              │── 📄 Task4.ipynb    # Jupyter Notebook with full analysis
-            │── 📂 data/               # Folder containing dataset(s)
+           
             │── 📂 visuals/            # Saved plots and word clouds
+         
+            │── 📂 data/               # Folder containing dataset(s)
+
+            |── 📁 Notebook
+              │── 📄 Task4.ipynb    # Jupyter Notebook with full analysis
+            
             │── 📄 Readme.md           # Project documentation (this file)
 
  **🏗️ Data Preprocessing**
